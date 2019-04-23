@@ -31,19 +31,6 @@ func main() {
 
 }
 
-/*func uitext() string {
-
-	var vset string
-
-	fmt.Println("Hello! Welcome to train and valid service for Owl Delivery")
-
-	fmt.Print("Validation set: ")
-	fmt.Scanln(&vset)
-
-	return vset
-
-}*/
-
 func getSymbols() []string {
 
 	folder := "quotes/2018-03-28/"
